@@ -1,0 +1,8 @@
+.plans-container--slider::-webkit-scrollbar {
+    background-color: #faf8f7;
+    height: 3px;
+}
+.main-tables-container::-webkit-scrollbar {
+    background-color: #faf8f7;
+    height: 3px;
+}

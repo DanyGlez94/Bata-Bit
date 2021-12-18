@@ -361,7 +361,7 @@ main {
     min-width: 288px;
     height: auto;
     margin: 0 auto;
-    margin-bottom: 50px;
+    margin-bottom: 25px;
 }
 .main-plans-container .plans--title h2 {
     padding-top: 50px;
@@ -465,6 +465,7 @@ main {
 footer {
     display: flex;
     width: 100%;
+    min-width: 320px;
     height: 150px;
     background-color: var(--bitcoin-orange);
 }
